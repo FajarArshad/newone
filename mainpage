@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:40px;
+    background-color:#eeeeee;
+    height:510px;
+    width:150px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:1000px;
+    float:center;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:8px;	 	 
+}
+</style>
+</head>
+<body>
+<div id="header">
+<h1> Shifa Hospital </h1>
+</div>
+
+<div id="nav">
+<a HREF="Physiotherapy.html"> Physiotherapy </a><br>
+ <a HREF="Radiology.html"> Radiology </a>
+</div>
+<div id="section">
+<img src="Shifa-International-Hospitals-Ltd..jpg" alt="shifa" style="width:800px;
+height:200px"><br>
+<h2> Mission & Vision </h2>
+<b>Our Mission</b><br>
+
+Health Care with Compassion for all<br>
+
+<b>Our Vision</b><br>
+
+To be the region’s leader by providing quality healthcare services<br>
+
+<b>Our Values</b><br>
+
+Compassion, Commitment, Teamwork, Quality, Respect and Accountability<br>
+
+<b>Our Strategic Priorities</b><br>
+
+ 1) Physician Partnership and Enhanced Clinical Quality<br>
+ 2) Provide Seamless/Easy Access Care Delivery<br>
+ 3) Financial Strength/Viability<br>
+ 4) Strategic Growth<br>
+
+
+
+
+</div>
+
+<div id="footer">
+
+</div>
+
+</body>
+</html>
+
