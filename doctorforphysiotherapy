@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1> Doctor Names </h1>
+<table border="1" style="width:100%">
+<tr>
+<td><p><b>1)PROF. M. ZAFAR ULLAH KHAN</b><br>
+<img src="dr.m.ZafarUllahKhan.jpg" alt="Dr Zafar" style="width:190px;
+height:200px"><br>
+FCPS (Medicine)<br>
+Head of Department<br>
+Former Professor of Medicine & Vice Chancellor<br>
+King Edward Medical College, Lahore.<br></p></td>
+	
+<td><p><b>2)PROF. MUJEEB UR REHMAN ABID BUTT</b><br>
+<img src="P.Mujeeb.jpg" alt="Dr Mujeeb" style="width:190px;
+height:200px"><br>
+FCPS (Medicine)<br>
+Former Senior Consultant Internal Medicine<br>
+King Saud Hospital, Saudi Arabia.<br></p></td>
+
+<td><p><b>3)DR. RASHID AHMED</b><br>
+<img src="Dr.rashidahmed.jpg" alt="Dr Rashid" style="width:190px;
+height:200px"><br>
+FRCP (Glasgow)<br>
+Assistant Professor of Medicine </p></td>
+</tr>
+<a HREF="appointment.html"> Appointment </a>
+
+
+
+</body>
+</html>
