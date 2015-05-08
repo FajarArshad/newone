@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1> Doctor Names </h1>
+<table border="1" style="width:100%">
+<tr>
+<td><p>
+<b>1)DR. SAIMA AMIN</b><br>
+<img src="Dr.SaimaAmin.jpg" alt="Dr Saima" style="width:190px;
+height:200px"><br>
+FCPS<br>
+Head of Radiology Department<br>
+Associate Professor<br>
+Former Neuro Radiologist, Jinnah Post Graduate Medical College,
+Karachi.<br></p></td>
+	
+<td><p><b>2)DR. SAQIB JAVAID AHMED</b><br>
+<img src="Dr.Saqibjavaidahmed.jpg" alt="Dr Saqib" style="width:190px;
+height:200px"><br>
+DMRD (Punjab), Fellowship MRI USC (USA)<br>
+Assistant Professor of Radiology<br></p></td></tr>
+<tr><td>	
+<p><b>3)DR. TARIQ JAFFAR QURESHI</b><br>
+<img src="Dr.ariq jaffarQueshi.jpg" alt="Dr ariq" style="width:190px;
+height:200px"><br>
+FCPS (Radiology)<br>
+Assistant Professor of Radiology <br> </p></td>
+<td>
+<p><b>4)DR. YASSER AMIN</b><br>
+<img src="Dr.yasserAmin.jpg" alt="Dr ariq" style="width:190px;
+height:200px"><br>
+FCPS (Diagnostic Radiology)<br>
+Assistant Professor of Radiology</p> </td></tr>
+</table>
+
+<a HREF="appointment.html"> Appointment </a>
+
+</body>
+</html>
